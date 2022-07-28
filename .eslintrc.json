@@ -17,7 +17,8 @@
         "tabWidth": 2,
         "useTabs": false,
         "trailingComma": "all",
-        "singleQuote": true
+        "singleQuote": true,
+        "endOfLine": "auto"
       }
     ],
     "linebreak-style": ["error", "windows"]
